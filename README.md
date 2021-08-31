@@ -21,6 +21,7 @@ Hey, I'm Kuba, also TheLiver on Discord and some other places.
 
 - [Fimento](https://fimento.com) - Providing next-generation financial services and advanced data analysis
 - [Worqee](https://worqee.co.uk) - Project I've made with friends, trying to simplify HR processes and make them cheaper
+- [Worqee](https://worqee.pl) - Same as above but for Poland!
 
 More to be announced!
 
@@ -40,3 +41,4 @@ Find me on [Twitter](https://twitter.com/bialy_kuba)!
 ### ⚡ Fun facts
 
 - Did you know that crabs can move in all directions but decide to go sideways? 
+- I think crabs are pretty cool.
