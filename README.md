@@ -35,7 +35,7 @@ If you got any interesting projects and they're open sourced - hit me up. More t
 
 ### 📫 How to reach me:
 
-Find me on [Twitter](https://twitter.com/bialy_kuba)!
+<a href="https://twitter.com/bialy_kuba"><img src="https://user-images.githubusercontent.com/709451/86995940-2977ea80-c15f-11ea-9575-355389b7f311.png" height="36" /></a>
 
 ### ⚡ Fun facts
 
