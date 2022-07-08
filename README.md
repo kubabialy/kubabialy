@@ -40,3 +40,7 @@ Find me on [Twitter](https://twitter.com/bialy_kuba)!
 ### ⚡ Fun facts
 
 - Did you know that crabs can move in all directions but decide to go sideways? 
+
+### GH Status
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kubabialy)](https://git.io/streak-stats)
