@@ -19,7 +19,6 @@ Hey, I'm Kuba, also TheLiver.
 
 ### 🔭 Currently working on:
 
-- [Percent](https://wearepercent.com/) - Providing companies with new means of supporting charities and non-profits
 - [Worqee](https://worqee.com) - Project I've made with friends, trying to simplify HR processes and make them cheaper as well as make application process easy for users.
 
 More to be announced!
