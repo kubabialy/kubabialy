@@ -19,7 +19,7 @@ Hey, I'm Kuba, also TheLiver.
 
 ### 🔭 Currently working on:
 
-- [Worqee](https://worqee.com) - Project I've made with friends, trying to simplify HR processes and make them cheaper as well as make application process easy for users.
+- Project I've made with friends, trying to simplify HR processes and make them cheaper as well as make application process easy for users.
 
 More to be announced!
 
