@@ -34,7 +34,7 @@ If you got any interesting projects and they're open sourced - hit me up. More t
 
 ### 📫 How to reach me:
 
-<a href="https://twitter.com/bialy_kuba">Find me here</a>
+[Find me here](https://twitter.com/theliverr)
 
 ### ⚡ Fun facts
 
